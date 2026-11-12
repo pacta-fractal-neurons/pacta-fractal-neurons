@@ -19,7 +19,9 @@ We perform deterministic, block-pinned verification of live EVM DeFi protocols a
 
 ---
 
-## Contact
+## Official Organization Repository & Methodology
 
+- **Public Methodology & Sample Execution Proofs**: [`Fractal-Neurons/pacta`](https://github.com/Fractal-Neurons/pacta)
+- **GitHub Organization**: [`@Fractal-Neurons`](https://github.com/Fractal-Neurons)
 - **Email**: `pacta@dri.network`
-- **Organization**: Fractal Neurons
+- **Organization**: [Fractal Neurons](https://fractalneurons.com)
